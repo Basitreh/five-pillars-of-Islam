@@ -1,0 +1,13 @@
+h1 {
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+}
+body {
+    background-color: rgb(136, 179, 96);
+    color: rgba(15, 36, 131, 0.925);
+    text-align: justify;
+}
+h2 {
+    text-decoration: underline;
+}
